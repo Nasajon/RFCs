@@ -1,5 +1,6 @@
 
 
+
 ```
 nsjRFC: 0001
 Categoria: Informacional
@@ -9,29 +10,29 @@ Autores: Daniel Checchia
 Data: Janeiro 2023
 ```
 
-#**Guia de Estilo RFC**
+# **Guia de Estilo RFC**
 
-**Resumo**
+## **Resumo**
 
 Este documento descreve as convenções de estilo fundamentais e exclusivas e políticas editoriais atualmente em uso para a série de RFCs da Nasajon. Neste documento oferecemos orientações sobre o estilo e a estrutura de uma **nsjRFC**.
 
-**Status deste Documento**
+## **Status deste Documento**
 
 Este documento não é uma especificação do Internet Standards Track; isso é publicado para fins informativos e uso restrito da Nasajon.
 
 Este documento é um produto dos times de Arquitetura, Infraestrutura, Segurança e Desenvolvimento da Nasajon e representa informações que a Nasajon considerá valiosas para providenciar um registro permanente de seus padrões. Ele representa o consenso do **Conselho de Padronização da Nasajon** (Arquitetura de Software, Infraestrutura Cloud, Segurança da Informação e Desenvolvimento). Documentos aprovados para publicação pelo Conselho de Padronização devem ser seguidos pelos times de tecnologia, incluindo suporte de TI.
 
-**Aviso de direitos autorais**
+## **Aviso de direitos autorais**
 
 Copyright (c) Todos os direitos relacionados são da Nasajon e seus Autores, nominados neste documento.
 
-**Introdução**
+## **Introdução**
 
 O objetivo final do processo de publicação de uma **nsjRFC** é produzir documentos legíveis, claros, consistentes, razoavelmente uniforme e que sejam fruto do consenso do **Conselho de Padronização**.  As convenções básicas de formatação para a escrita de nsjRFCs são uma adaptação livre e simplificada do documento de estilo criado na década de 70 pelo Jon Postel, que foi o editor original das RFCs. Esse documento pretende ser uma referência estável e atualizada com pouca frequência para autores, editores e revisores.
 
 O mundo da publicação técnica geralmente aceita regras para gramática, pontuação, capitalização, comprimento e complexidade da frase, paralelismo, etc. O Editor RFC geralmente segue estas regras definidas, com algumas exceções importantes para evitar ambiguidade em técnicas complexas e para lidar com misturas de texto e linguagens de computador, ou para preservar as regras de formatação.
 
-**Estrutura de uma nsjRFC**
+### **Estrutura de uma nsjRFC**
 
 Uma **nsjRFC** publicada deve conter, no mínimo, as informações contidas na lista abaixo:
 
