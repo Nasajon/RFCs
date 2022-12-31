@@ -1,10 +1,12 @@
 
+```
 **nsjRFC**: 0001
 **Categoria**: Informacional
 **Status**: Rascunho
 **Substitui (nsjRFC)**: N.A.
 **Autores**: Daniel Checchia
-**Data**: Janeiro 2023 
+**Data**: Janeiro 2023
+```
 
 **Guia de Estilo RFC**
 
