@@ -1,5 +1,4 @@
 # RFCs
-Repositório de RFCs Nasajon SRE
 
 ## Motivação
 A idéia de criar um repositório com os padrões de arquitetura Cloud Computing, Produtos e Serviços que rodam na infraestrutura disponibilizada pela Nasajon surgiu da falta geral de documentos de padronização (Standards), Boas Práticas (BCPs) e Procedimentos Operacionais (Standards Operational Procedures).
